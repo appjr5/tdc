@@ -363,4 +363,25 @@ export const members: Member[] = [
 			x: "innocentmasuki",
 		},
 	},
+	{
+	  name: "Happiness Neema Jr.",
+	  github: "appjr5",
+	  title: "Software Engineer",
+	  location: "Dar es Salaam",
+	  bio: "Backend developer with a nack for cool AI softwares.",
+	  skills: {
+	    languages: ["FastAPI", "HTML", "Tailwind CSS"],
+	    backend: ["FastAPI"],
+		mobile: ["Flutter"],
+		data: ["PostgreSQL", "MySQL", "Redis"],
+		ai: ["Machine Learning", "Chatbots", "Huggingface LLMs"],
+		devops: ["Linux"]
+	  },
+	  links: {
+	    linkedin: "https://linkedin.com/in/happinessmpazi",
+	    // x: "yourhandle",
+	  },
+	  openToWork: true,
+	  hireContact: "appjr360@gmail.com",
+	},
 ];
